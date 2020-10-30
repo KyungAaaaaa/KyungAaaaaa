@@ -1,4 +1,6 @@
-### Hi there 👋
+### KyungAh [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungAaaaaa&count_bg=%23929292&title_bg=%23FF2A62&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![KyungAaaaaa's github stats](https://github-readme-stats.vercel.app/api?username=KyungAaaaaa&show_icons=true)
 
 <!--
 **KyungAaaaaa/KyungAaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
